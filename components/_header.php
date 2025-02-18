@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="index.php">Inicio</a></li>
                 <li><a href="newFilm.php">Nueva pelicula</a></li>
-                <li><a href="https://github.com/olekprot/ExamenPHP_Protyniak">GIT</a></li>
+                <li><a href="https://github.com/olekprot/Examen_PHP_Protyniak" target="_blank">GIT</a></li>
             </ul>
         </nav>
     </header>
