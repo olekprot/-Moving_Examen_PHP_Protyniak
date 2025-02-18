@@ -1,10 +1,10 @@
 <?php include_once 'components/_header.php';?>
-<?php require 'components/_config.php';?>
+
 	
 
 
 <div class="container">
-    <div class="movie-card">
+    <div class="movie-card form">
     <h2 class="header-form">Anadir nuevo pelicula</h2>
         <div>
             <form action="newFilm.php" method="get">

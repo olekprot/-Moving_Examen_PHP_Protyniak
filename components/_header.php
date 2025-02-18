@@ -1,3 +1,6 @@
+<?php require 'components/_config.php';?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +16,7 @@
             <ul>
                 <li><a href="index.php">Inicio</a></li>
                 <li><a href="newFilm.php">Nueva pelicula</a></li>
-                <li><a href="https://github.com/olekprot/Examen_PHP_Protyniak" target="_blank">GIT</a></li>
+                <li><a href="https://github.com/olekprot/-Moving_Examen_PHP_Protyniak" target="_blank">GIT</a></li>
             </ul>
         </nav>
     </header>
